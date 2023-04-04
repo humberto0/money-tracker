@@ -13,7 +13,7 @@ A web application for managing finances. With this app, you can upload tables of
 
 ## Getting Started
 
-*1 Clone the repository to your local machine.
+1* Clone the repository to your local machine.
 
 ```bash
 git clone https://github.com/humberto0/money-tracker.git
