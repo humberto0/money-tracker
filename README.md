@@ -13,23 +13,23 @@ A web application for managing finances. With this app, you can upload tables of
 
 ## Getting Started
 
-1* Clone the repository to your local machine.
+* Clone the repository to your local machine.
 
 ```bash
 git clone https://github.com/humberto0/money-tracker.git
 ```
 
-*2 To install all dependencies.
+* To install all dependencies.
 
 ```bash
 yarn
 ```
-*3 To start the application in development mode.
+* To start the application in development mode.
 
 ```bash
 yarn start
 ```
-*4 Open http://localhost:3000 to view it in the browser.
+* Open http://localhost:3000 to view it in the browser.
 
 ## Usage
 
